@@ -124,6 +124,12 @@ plt.show()
 
 ## Output:
 
+Name:Balasurya S
+
+Reg. No:212225100003
+
+ElasticNet - Mean Squared Error: 0.63, R² Score: 0.49
+
 <img width="296" height="498" alt="image" src="https://github.com/user-attachments/assets/7b715028-4da4-4cc3-8d29-d22bf831a48d" />
 
 
