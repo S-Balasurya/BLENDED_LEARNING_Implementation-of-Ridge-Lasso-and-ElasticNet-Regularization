@@ -124,11 +124,10 @@ plt.show()
 
 ## Output:
 
-Name:Balasurya S
+<img width="888" height="213" alt="Screenshot 2026-03-28 141241" src="https://github.com/user-attachments/assets/7c913a94-9654-4591-a2da-f852794af2e2" />
 
-Reg. No:212225100003
+<img width="797" height="158" alt="Screenshot 2026-03-28 141246 jpeg" src="https://github.com/user-attachments/assets/edbabf6d-60f4-44b4-8605-70cd972ab51a" />
 
-ElasticNet - Mean Squared Error: 0.63, R² Score: 0.49
 
 <img width="296" height="498" alt="image" src="https://github.com/user-attachments/assets/7b715028-4da4-4cc3-8d29-d22bf831a48d" />
 
